@@ -1,0 +1,170 @@
+Phrases:
+il reste à résoudre les exercices
+
+
+POD
+
+26.1
+1. Elle les achéte.
+2. Il le consulte.
+3. Nous le soutentons
+4. Ils la construisent
+5. Je l'ouvre
+6. Elle la conduit.
+7. Il les accepte.
+8. Nous le comprenons
+9. Tu le visites.
+10. Elle l'étudie.
+
+26.2
+1. Il me remercie
+2. L'écrivain les envoie
+3. Ils nous invionts.
+4. Nous l'acceptons
+5. Elle les a appellées.
+6. Apporte-les!
+7. Je vais l'acheter.
+8. Ne le/la vende pas!
+9. Nous devons le/la voir
+10. La-connais tu?
+
+
+
+POI
+
+
+
+
+26.3
+1. La grand-mere leur a raconté une histoire
+2. Nous lui avons fait un cadeau
+3. Je lui ferai parvenir le dossier dès que possible
+4. Nous lui enverrons des fleurs.
+5. Ce théâtre lui appartient
+6. Est-que tu lui as écrit?
+7. Téléphonez-Lui aussitôt que possible!
+8. Ne lui mentionnez rien!
+9. Il leur annoncera sa décision demain.
+10. Il leur donnera le scénario en fin de journée.
+
+
+26.4
+1. Apporte-moi un livre!
+2. Ne les appelle pas apres huit p.m.
+3. Envoie-nous ta nouvelle pièce
+4. Je lui écrirai un lettre.
+5. Elle me donnera (va me donner) une réponse Lundi.
+6. Il ne m'a pas rendu les livres.
+7. Ce stylo lui appartient.
+8. Il ne nous parle pas.
+9. Ils nous ont ranconté une bonne histoire.
+10. Ils tu prêteront leur maison pour le weekend.
+
+
+
+26.5
+1. Elle s'y habitue.
+2. Tu devrais y prêter attention.
+3. Nous nous y'intéressons.
+4. Je m'y abonne 
+5. Elle y tient
+6. Nous n'y croyons pas .
+7. Il n'y pense jamais.
+8. ls n'y obéissent pas
+9. Elle y réfléchira.
+10. Pourquoi n'y avez-vous jamais répondu?
+
+
+26.6
+1. J'en ai parlé.
+2. Ils en ont envie.
+3. Nous en avons besoin.
+4. Il s'en est aprroché très lantement.
+5. Je m'en chargerai.
+6. Tu t'en sers?
+7. Il en a peur.
+8. Je ne m'en souviens pas.
+9. Elle s'en est occupée.
+10. Il ne pourra jamais s'en débarrasser
+
+26.7
+5.b
+1.e
+4.c
+2.d
+3.a
+
+
+
+
+
+Direct:
+chanter
+appeller
+prendre
+soigner
+accepter
+accueiller
+comprendre
+suivre
+connaître
+approuver
+aimer
+emmener
+contacter
+finir
+lire
+vori
+trier
+jouer
+acheter
+inviter
+consulter
+soutenir
+ouvrir
+conduire
+construire
+visiter
+etuider
+apporter
+
+Indirect:
+parler à
+repondre à
+ecrire à
+expliquer à
+envoyer ?
+donner ?
+rendre ?
+apporter ?
+fournir ?
+prêter ?
+téléphoner ?
+racontér à
+parvenir à
+appartenir à
+ecrire à
+mentionner à
+annoncer à
+donner à
+
+inanimate:
+
+habiter à
+s'intéresser à
+renonér à
+goûter à
+réfléchir à
+repondre à (question)
+obéir à (lois et règles)
+
+DE (en):
+ocuuper de
+souvient de
+etre peur de
+parler de (talk about)
+se charger de (to take care of)
+se approcher de (to approach to)
+se débarrasser de (to get rid of)
+se servir de
+pouvoir de
